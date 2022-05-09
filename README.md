@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh Nandanwar.
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning microservices with netflix stack and system design fundamentals.
+- 🌱 I’m currently practicing data structure and algorithm along with system design fundamentals.
 - 💞️ I’m looking to collaborate on backend work related to java and spring ecosystem open source technologies.
 - 📫 you can reach me out to Lnmanit@gmail.com via mail.
 
